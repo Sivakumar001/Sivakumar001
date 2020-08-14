@@ -1,6 +1,6 @@
 # Siva kumar  
-[![Twitter Badge]](https://twitter.com/_Kunal_Raghav_)
-[![Gmail Badge]](mailto:kraghav123@gmail.com)
+[Twitter](https://twitter.com/)
+[Gmail](mailto:tvsivakumar001@gmail.com)
 
 ## Hi 👋, 
 I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionate about open source. I'm also a self procliamed and internet surfer 
