@@ -1,5 +1,7 @@
 # Siva kumar  
-[![gmail logo](https://img.icons8.com/metro/26/000000/gmail-login.png)](mailto:tvsivakumar001@gmail.com)
+[![gmail logo](https://img.icons8.com/officexs/30/000000/gmail-login.png)](mailto:tvsivakumar001@gmail.com)
+
+
 [![twitter logo](https://img.icons8.com/android/24/000000/twitter.png)](https://twitter.com/tvsivakumar001)   
 
 ## Hi 👋, 
