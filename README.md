@@ -10,7 +10,7 @@ I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionat
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3
-- contact me on:[Twitter](https://twitter.com/tvsivakumar001)   [Gmail](mailto:tvsivakumar001@gmail.com)
+- contact me on:  [Twitter](https://twitter.com/tvsivakumar001)   [Gmail](mailto:tvsivakumar001@gmail.com)
 
 
 ---
