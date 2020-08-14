@@ -11,6 +11,6 @@ I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionat
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 - ⚡ Languages: Python3
-- 📧 contact me:[gmail](mailto:tvsivakumar001@gmail.com)
+- 📧 contact me: [gmail](mailto:tvsivakumar001@gmail.com)
 
 ---
