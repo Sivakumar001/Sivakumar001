@@ -8,7 +8,7 @@ I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionat
 
 - 🔭 I’m currently working on Web Scraping
 - 🌱 I’m currently learning Python
-- 💬 Ask me about: tech, memes, anime
+- 💬 Ask me about: tech, memes
 - 😄 Pronouns: he/him
 - ⚡ Languages: Python3
 - 📧 contact me: [gmail](mailto:tvsivakumar001@gmail.com)
