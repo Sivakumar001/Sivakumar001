@@ -12,8 +12,6 @@ I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionat
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3
 
-> El Psy Kongroo
-
 
 ---
-⭐️ From [KunalRaghav](https://github.com/Sivakumar001)
+⭐️ From [Siva kumar](https://github.com/Sivakumar001)
