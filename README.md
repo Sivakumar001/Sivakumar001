@@ -1,8 +1,5 @@
 # Siva kumar  
-[Twitter](https://twitter.com/)
 
-
-[Gmail](mailto:tvsivakumar001@gmail.com)
 
 ## Hi 👋, 
 I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionate about open source. I'm also a self procliamed and internet surfer 
@@ -13,6 +10,7 @@ I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionat
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3
+- contact me on:[Twitter](https://twitter.com/)[Gmail](mailto:tvsivakumar001@gmail.com)
 
 
 ---
