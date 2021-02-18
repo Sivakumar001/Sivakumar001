@@ -7,10 +7,10 @@ I'm Siva kumar, I'm actually a self taught beginner 👨‍💻 who is passionat
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Web Scraping
-- 🌱 I’m currently learning Python
-- 💬 Ask me about: tech, memes
+- 🌱 I’m currently learning Python, css
+- 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
-- ⚡ Languages: Python3
+- ⚡ Languages: Python3, html
 - 📧 contact me: [gmail](mailto:tvsivakumar001@gmail.com)
 
 ---
