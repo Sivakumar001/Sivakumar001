@@ -1,11 +1,10 @@
 # Siva Kumar  
 
-## Hi 👋,
+### Hi 👋,
 
-Hi guys, I'm Siva Kumar. I am currently studying as a cs major in Chennai, India. I'm currently learning web devolepment and python programming. contact me if you have same interest or some questions!
+Hi guys, I'm Siva Kumar. I am currently studying as a CS major in Chennai, India. I'm currently learning web devolepment and python programming. contact me if you have same interest or some questions!
 
 ## ⚡ Tech stack
-<hr>
 
 ### Programming Languages
 
@@ -23,10 +22,16 @@ Hi guys, I'm Siva Kumar. I am currently studying as a cs major in Chennai, India
 
 ## Contact Me 
 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:tvsivakumar001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 <img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white"/>
 
 <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+
+My github stats
+[![Siva kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sivakumar001)](https://github.com/Sivakumar001/github-readme-stats)
+
+Here's a random meme for you!
+![Jokes Card](https://readme-jokes.vercel.app/api)
