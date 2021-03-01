@@ -12,12 +12,12 @@ Hi guys, I'm Siva Kumar. I am currently studying as a CS major in Chennai, India
 
 ### OS and Tools
 
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img alt="sublime text" src="https://img.shields.io/label=sublime%20text&logo=sublime%20text&style=for-the-badge"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
 ## Contact Me 
 
-<a href="mailto:tvsivakumar001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://instagram.com/sk_siva_kumar_"><img alt="Instagram" src="https://img.shields.io/badge/Siva kumar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a><a href="https://www.reddit.com/user/Sksiva001"><img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+<a href="mailto:tvsivakumar001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://instagram.com/sk_siva_kumar_"><img alt="Instagram" src="https://img.shields.io/badge/Siva kumar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a><a href="https://www.reddit.com/user/Sksiva001"><img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white"/></a><a href="https://wa.me/+917397637656"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 ## My github stats
 
