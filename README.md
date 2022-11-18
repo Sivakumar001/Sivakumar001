@@ -1,6 +1,6 @@
 # Hi 👋,
 
-Hi guys, I'm Siva Kumar. I am currently studying as a CS major in Chennai, India. currently open for oppurtunities and would like to collaborate on projects based on java, python. contact me if you have same interest or some questions!
+Hi guys, I'm Siva Kumar. I am currently studying as a CS major in India. currently open for oppurtunities and would like to collaborate on projects based on java, python. contact me if you have same interest or some questions!
 
 ## ⚡ Tech stack
 
