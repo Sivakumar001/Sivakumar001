@@ -1,6 +1,6 @@
 # Hi 👋,
 
-Hi guys, I'm Siva Kumar. I am currently studying as a CS major in India. currently open for oppurtunities and would like to collaborate on projects based on java, python. contact me if you have same interest or some questions!
+Hi guys, I'm Siva Kumar. I am software engineer in India. currently open for oppurtunities and would like to collaborate on projects based on java, python. contact me if you have same interest or some questions!
 
 ## ⚡ Tech stack
 
@@ -20,7 +20,6 @@ Hi guys, I'm Siva Kumar. I am currently studying as a CS major in India. current
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 ## Contact Me 
 
