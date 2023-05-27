@@ -1,6 +1,6 @@
 # Hi 👋,
 
-Hi guys, I'm Siva Kumar. I am software engineer in India. currently open for oppurtunities and would like to collaborate on projects based on java, python. contact me if you have same interest or some questions!
+Hi, I'm Siva Kumar. I am software engineer in India. currently open for oppurtunities and would like to collaborate on projects based on java, python. contact me if you have same interest or some questions!
 
 ## ⚡ Tech stack
 
